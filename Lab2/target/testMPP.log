@@ -1,0 +1,16 @@
+04 Mar 2025 17:01:21,248 TRACE com.example.repository.AbstractRepository 21 add - Enter  parameters ID=1, ownerName='A A', model='Asus', date='13/10/2020', problemDescription='Broken display'
+04 Mar 2025 17:01:21,254 TRACE com.example.repository.AbstractRepository 29 add - Exit
+04 Mar 2025 17:01:21,255 TRACE com.example.repository.AbstractRepository 21 add - Enter  parameters ID=2, ownerName='B B', model='Acer', date='10/10/2020', problemDescription='Faulty keyboard'
+04 Mar 2025 17:01:21,256 TRACE com.example.repository.AbstractRepository 29 add - Exit
+04 Mar 2025 17:21:51,191 TRACE com.example.repository.AbstractRepository 21 add - Enter  parameters ID=1, ownerName='A A', model='Asus', date='13/10/2020', problemDescription='Broken display'
+04 Mar 2025 17:21:51,196 TRACE com.example.repository.AbstractRepository 29 add - Exit
+04 Mar 2025 17:21:51,197 TRACE com.example.repository.AbstractRepository 21 add - Enter  parameters ID=2, ownerName='B B', model='Acer', date='10/10/2020', problemDescription='Faulty keyboard'
+04 Mar 2025 17:21:51,198 TRACE com.example.repository.AbstractRepository 29 add - Exit
+04 Mar 2025 17:22:58,325 TRACE com.example.repository.AbstractRepository 21 add - Enter  parameters ID=1, ownerName='A A', model='Asus', date='13/10/2020', problemDescription='Broken display'
+04 Mar 2025 17:22:58,330 TRACE com.example.repository.AbstractRepository 29 add - Exit
+04 Mar 2025 17:22:58,330 TRACE com.example.repository.AbstractRepository 21 add - Enter  parameters ID=2, ownerName='B B', model='Acer', date='10/10/2020', problemDescription='Faulty keyboard'
+04 Mar 2025 17:22:58,332 TRACE com.example.repository.AbstractRepository 29 add - Exit
+04 Mar 2025 17:30:47,022 TRACE com.example.repository.AbstractRepository 21 add - Enter  parameters ID=1, ownerName='A A', model='Asus', date='13/10/2020', problemDescription='Broken display'
+04 Mar 2025 17:30:47,027 TRACE com.example.repository.AbstractRepository 29 add - Exit
+04 Mar 2025 17:30:47,028 TRACE com.example.repository.AbstractRepository 21 add - Enter  parameters ID=2, ownerName='B B', model='Acer', date='10/10/2020', problemDescription='Faulty keyboard'
+04 Mar 2025 17:30:47,028 TRACE com.example.repository.AbstractRepository 29 add - Exit

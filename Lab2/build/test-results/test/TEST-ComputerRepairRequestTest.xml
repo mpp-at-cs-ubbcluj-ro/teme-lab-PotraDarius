@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ComputerRepairRequestTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-03-04T15:23:04" hostname="DARIUS_LAPTOP" time="0.04">
+  <properties/>
+  <testcase name="First Test" classname="ComputerRepairRequestTest" time="0.034"/>
+  <testcase name="Example Test" classname="ComputerRepairRequestTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
