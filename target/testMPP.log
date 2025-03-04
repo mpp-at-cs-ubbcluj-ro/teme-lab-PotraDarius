@@ -1,0 +1,4 @@
+04 Mar 2025 17:31:00,370 TRACE com.example.repository.AbstractRepository 21 add - Enter  parameters ID=1, ownerName='A A', model='Asus', date='13/10/2020', problemDescription='Broken display'
+04 Mar 2025 17:31:00,373 TRACE com.example.repository.AbstractRepository 29 add - Exit
+04 Mar 2025 17:31:00,374 TRACE com.example.repository.AbstractRepository 21 add - Enter  parameters ID=2, ownerName='B B', model='Acer', date='10/10/2020', problemDescription='Faulty keyboard'
+04 Mar 2025 17:31:00,374 TRACE com.example.repository.AbstractRepository 29 add - Exit
